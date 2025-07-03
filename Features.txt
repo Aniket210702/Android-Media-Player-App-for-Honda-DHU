@@ -1,0 +1,9 @@
+1. Play + Pause
+2. +10 seconds
+3. -10 seconds
+4. Seeking from Seek bar
+5. Previous Song
+6. Next Song
+7. Playlist - 7 songs - Navigation Enabled
+8. Animation of music logo while playing
+9. Implemented in Honda DHU
